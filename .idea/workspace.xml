@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27baa423-355b-4c37-b813-0e313aff5126" name="Changes" comment="" />
+    <list default="true" id="27baa423-355b-4c37-b813-0e313aff5126" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greeting-service/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/greeting-service/application-prod.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
     "Spring Boot.ConfigServerApplication.executor": "Debug",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/erudio-config-server1",
+    "last_opened_file_path": "C:/workspace/config-server/greeting-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +51,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\config-server\greeting-service" />
+      <recent name="C:\workspace\config-server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\config-server" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install" />
@@ -83,6 +95,7 @@
       <workItem from="1728509066962" duration="1215000" />
       <workItem from="1728593239783" duration="423000" />
       <workItem from="1728593844086" duration="15000" />
+      <workItem from="1728593891620" duration="1213000" />
     </task>
     <servers />
   </component>
